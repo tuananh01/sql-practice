@@ -1,4 +1,4 @@
--- Xom Data · Parcels bound for Da Nang
+-- Xom Data · Parcels bound for Denver
 -- Problem: https://xomdata.com/practice/easy-join-002
 -- Solved: 2026-08-10
 
