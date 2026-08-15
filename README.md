@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**99** problems solved on [Xom Data](https://xomdata.com/practice).
+**100** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 80 | 15 | 0 | 0 | 95 |
+| SQL | 80 | 16 | 0 | 0 | 96 |
 
 **Recently solved**
 
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-15
 - [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-08-15
 - [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-08-14
 - [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-08-14
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-11
 - [easy-andor-001](https://xomdata.com/practice/easy-andor-001) · Easy · 2026-08-10
 - [easy-alias-001](https://xomdata.com/practice/easy-alias-001) · Easy · 2026-08-10
-- [easy-trim-001](https://xomdata.com/practice/easy-trim-001) · Easy · 2026-08-10
 
-_Synced 99 solutions · last update 2026-08-15_
+_Synced 100 solutions · last update 2026-08-15_
 
 <!-- xomdata:stats:end -->
 
