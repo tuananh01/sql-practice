@@ -107,5 +107,7 @@
   "practice/sql/nightmare/sql-nightmare-001/solution.sql": "b6ba43933d60b24ddee5deec935f3b2bfaa694a1847370788db854e6f10619aa",
   "practice/sql/nightmare/sql-nightmare-002/solution.sql": "2777890eabdd1566d7a2a885ac8f32a7c890f092bd189a87dac1356a08d0f9dc",
   "practice/sql/nightmare/sql-nightmare-003/solution.sql": "c6c15b2a5d340e758bba46150f630e6639448f7db7437da0d4fb706fce9e21a6",
-  "practice/sql/medium/medium-subquery-103/solution.sql": "db0e0895e3262b751c225e23c9443e7bcb64ffbf7cf78799f07e215c55f43454"
+  "practice/sql/medium/medium-subquery-103/solution.sql": "db0e0895e3262b751c225e23c9443e7bcb64ffbf7cf78799f07e215c55f43454",
+  "practice/sql/nightmare/sql-nightmare-004/solution.sql": "a834a510e7f6a9db5ce6ee680e18a7b709b3cba7c71984fd304d26e204778535",
+  "practice/sql/medium/medium-subquery-110/solution.sql": "694887a8088a4c17a4d936f5f9d47fc66a2abf901f3de85c632da900dfb76d8f"
 }
