@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**125** problems solved on [Xom Data](https://xomdata.com/practice).
+**133** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 80 | 30 | 0 | 11 | 121 |
+| SQL | 80 | 30 | 7 | 12 | 129 |
 
 **Recently solved**
 
+- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-03
+- [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-09-02
+- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-01
+- [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-08-31
+- [expert-final-win-008](https://xomdata.com/practice/expert-final-win-008) · Nightmare · 2026-08-30
+- [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-08-30
+- [hard-anomaly-001](https://xomdata.com/practice/hard-anomaly-001) · Hard · 2026-08-29
+- [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-08-28
 - [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-08-27
 - [medium-subquery-198](https://xomdata.com/practice/medium-subquery-198) · Medium · 2026-08-26
-- [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-08-25
-- [medium-join-186](https://xomdata.com/practice/medium-join-186) · Medium · 2026-08-25
-- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-08-24
-- [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-08-24
-- [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-08-23
-- [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-08-23
-- [sql-nightmare-007](https://xomdata.com/practice/sql-nightmare-007) · Nightmare · 2026-08-23
-- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-08-23
 
-_Synced 125 solutions · last update 2026-08-27_
+_Synced 133 solutions · last update 2026-09-03_
 
 <!-- xomdata:stats:end -->
 
