@@ -131,5 +131,8 @@
   "practice/sql/hard/hard-retention-001/solution.sql": "aed0b7a3e1f68b735afdc5b05b260c46abe149f8c8f32bf249c7e71edc80feeb",
   "practice/sql/hard/hard-anti-001/solution.sql": "a99df93c6bdf34413443ed37fa76393f031dc47f32f5a499ab12c5ffdffeceed",
   "practice/sql/hard/hard-conditional-001/solution.sql": "025b8f32d280feccb1f2abc11fdb6aa0908bcc8eceb8608174508216f4740d53",
-  "practice/sql/hard/hard-funnel-001/solution.sql": "1d00f80d746a86d43e18685e65ff084fb2f084838e4b84dcc1d85b8535241e30"
+  "practice/sql/hard/hard-funnel-001/solution.sql": "1d00f80d746a86d43e18685e65ff084fb2f084838e4b84dcc1d85b8535241e30",
+  "practice/sql/hard/hard-churn-001/solution.sql": "a89837a7942a7c9891c91697c457a9026434e650037b584fc5078faffee827a5",
+  "practice/sql/hard/hard-fifo-001/solution.sql": "ea31134a465db304bf01790f8b583b571a41b615073bee5e1568c9c30dc421d0",
+  "practice/sql/nightmare/expert-final-win-010/solution.sql": "5384d72dc7ecc3dbd215db82cc74b3a9f1c48b8944ca723aa64c9d33c7428ff7"
 }
