@@ -1,4 +1,4 @@
--- Xom Data · Tháng này mất bao nhiêu khách của tháng trước
+-- Xom Data · How many of last month's customers are lost this month
 -- Problem: https://xomdata.com/practice/hard-churn-002
 -- Solved: 2026-09-11
 
