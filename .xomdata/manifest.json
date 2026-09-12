@@ -63,7 +63,7 @@
   "practice/sql/easy/easy-in-002/solution.sql": "5bad5622c33ff1869c4c7dabdb776f768876fbcc4c975cb374fcd8991ecc6500",
   "practice/sql/easy/easy-isnull-003/solution.sql": "77add50e553ccab65714d76293fe9d08bd60341c4b10bf9bc8785c0761853b48",
   "practice/sql/easy/easy-join-001/solution.sql": "d6acdfd91b3b53fcf9ad0ebeb37dee9b032a2950ad053ab1da9f9de8a20af7e1",
-  "practice/sql/easy/easy-join-002/solution.sql": "1e3fb36b683be579e2dfea2f84dde3a5cd5a09748b145652885b8bee3d45f77a",
+  "practice/sql/easy/easy-join-002/solution.sql": "6c818b179eb3f23c0220b1a17a11e74665992b7ca2ecc3537bcf46d38df4cb04",
   "practice/sql/easy/easy-join-003/solution.sql": "33056b8965849e2f1b332cab807fcf5bae5074096fbb9cca3e71832b4001a042",
   "practice/sql/easy/easy-join-004/solution.sql": "27f5b8d939ec46a42c72185cc5f1c215eb4b1c3a8dcd30df2fe776bc1fd89037",
   "practice/sql/easy/easy-join-005/solution.sql": "47f9d8b6401e94ca2369522d5bf396684c06d9685cbf7bfedc82e97659f197dc",
@@ -134,5 +134,15 @@
   "practice/sql/hard/hard-funnel-001/solution.sql": "1d00f80d746a86d43e18685e65ff084fb2f084838e4b84dcc1d85b8535241e30",
   "practice/sql/hard/hard-churn-001/solution.sql": "a89837a7942a7c9891c91697c457a9026434e650037b584fc5078faffee827a5",
   "practice/sql/hard/hard-fifo-001/solution.sql": "ea31134a465db304bf01790f8b583b571a41b615073bee5e1568c9c30dc421d0",
-  "practice/sql/nightmare/expert-final-win-010/solution.sql": "5384d72dc7ecc3dbd215db82cc74b3a9f1c48b8944ca723aa64c9d33c7428ff7"
+  "practice/sql/nightmare/expert-final-win-010/solution.sql": "5384d72dc7ecc3dbd215db82cc74b3a9f1c48b8944ca723aa64c9d33c7428ff7",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "bec5ea2e7369bdb5ec649170197dabb323678fb7050c833365bcd6b0ec3e16ce",
+  "practice/sql/nightmare/expert-final-multi-007/solution.sql": "bb17c94af13c6658e71584ebd11f702bb87612c603a15c4d1a2ebec416e4b730",
+  "practice/sql/hard/hard-mrr-001/solution.sql": "79434ff414b307f3cc20fe10b83dd0ac683225e4153b8abc9c43d0fdb2c08153",
+  "practice/sql/hard/hard-streak-001/solution.sql": "5999465ff31cfe81f98c8785137a60cbce534b724372a4384c06e6e3addc6d61",
+  "practice/sql/hard/hard-winback-002/solution.sql": "f6e3d5eccd149ff00d6b0291aadaad5577d3ae937192de4e5adebd353ecae94a",
+  "practice/sql/nightmare/nightmare-statemachine-001/solution.sql": "eff5278882c6ee839e1f9bf70b2927cde2b511175679e0d352fa1b9eab2b6018",
+  "practice/sql/hard/hard-cohort-003/solution.sql": "9f6fe28c51f0e8f9212aec1e8cc0e71ad02ebb434ebec9e0434f8a512230c8db",
+  "practice/sql/nightmare/nightmare-coinchange-001/solution.sql": "661ff76a633f4d01951e7cc1dad6f065b386c91c084e0fdd6ab5d753dd64445d",
+  "practice/sql/hard/hard-churn-002/solution.sql": "79cd5652ef39bf321dab77111e6578334834f07df6caca4cf604a43b9976b007",
+  "practice/sql/hard/hard-winback-001/solution.sql": "30447e476b9e5b0c618dfbf0700cb9925f7a72c611c9dbc6270721cfbd381188"
 }
