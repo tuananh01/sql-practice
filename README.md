@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**146** problems solved on [Xom Data](https://xomdata.com/practice).
+**155** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 80 | 30 | 16 | 16 | 142 |
+| SQL | 81 | 30 | 21 | 19 | 151 |
 
 **Recently solved**
 
+- [expert-final-subq-003](https://xomdata.com/practice/expert-final-subq-003) · Nightmare · 2026-09-17
+- [hard-retention-002](https://xomdata.com/practice/hard-retention-002) · Hard · 2026-09-17
+- [hard-monetary-001](https://xomdata.com/practice/hard-monetary-001) · Hard · 2026-09-16
+- [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-09-15
+- [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-09-15
+- [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-09-14
+- [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-09-13
+- [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-09-12
+- [medium-cohort-003](https://xomdata.com/practice/medium-cohort-003) · Easy · 2026-09-12
 - [hard-winback-001](https://xomdata.com/practice/hard-winback-001) · Hard · 2026-09-12
-- [hard-churn-002](https://xomdata.com/practice/hard-churn-002) · Hard · 2026-09-11
-- [nightmare-coinchange-001](https://xomdata.com/practice/nightmare-coinchange-001) · Nightmare · 2026-09-10
-- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-09-10
-- [nightmare-statemachine-001](https://xomdata.com/practice/nightmare-statemachine-001) · Nightmare · 2026-09-09
-- [hard-winback-002](https://xomdata.com/practice/hard-winback-002) · Hard · 2026-09-09
-- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-08
-- [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-09-07
-- [expert-final-multi-007](https://xomdata.com/practice/expert-final-multi-007) · Nightmare · 2026-09-06
-- [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-09-06
 
-_Synced 146 solutions · last update 2026-09-12_
+_Synced 155 solutions · last update 2026-09-17_
 
 <!-- xomdata:stats:end -->
 

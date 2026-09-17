@@ -144,5 +144,14 @@
   "practice/sql/hard/hard-cohort-003/solution.sql": "9f6fe28c51f0e8f9212aec1e8cc0e71ad02ebb434ebec9e0434f8a512230c8db",
   "practice/sql/nightmare/nightmare-coinchange-001/solution.sql": "661ff76a633f4d01951e7cc1dad6f065b386c91c084e0fdd6ab5d753dd64445d",
   "practice/sql/hard/hard-churn-002/solution.sql": "79cd5652ef39bf321dab77111e6578334834f07df6caca4cf604a43b9976b007",
-  "practice/sql/hard/hard-winback-001/solution.sql": "30447e476b9e5b0c618dfbf0700cb9925f7a72c611c9dbc6270721cfbd381188"
+  "practice/sql/hard/hard-winback-001/solution.sql": "30447e476b9e5b0c618dfbf0700cb9925f7a72c611c9dbc6270721cfbd381188",
+  "practice/sql/easy/medium-cohort-003/solution.sql": "033680a38a359178d84c1af049042c635126ed6458dcf3e4916cd6ea033c4cc4",
+  "practice/sql/nightmare/expert-final-mix-009/solution.sql": "ad42bf26ce3c3d82e440895c50d934aa6dd4d8b13fe8799f1f2ba1d1df521d58",
+  "practice/sql/hard/hard-ltv-001/solution.sql": "8fc48f76bcf8cde9806fb9003067b6347f36422b7aa4077684b83dde5d6b48ca",
+  "practice/sql/hard/hard-retention-005/solution.sql": "020c60cb44f85034c9ceb551eb3feb8f3688a731ce14a97b66b3938d4e168b3c",
+  "practice/sql/hard/hard-rfm-002/solution.sql": "e1e2bec848658182bc4edb9bc02e108060c742160f1365cf91b7c495a6058889",
+  "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "8058192565f03bf769098f52f70b297166e125c44216856acd262d9dc9f9c7ab",
+  "practice/sql/hard/hard-monetary-001/solution.sql": "26aa0efcfe45b35a37803f69cc2d27e39a86707910cd5e539e1a376a51d978c1",
+  "practice/sql/hard/hard-retention-002/solution.sql": "377d05906c5bd2a420d9c23897c484f851157e9eef572dbde67f5b4d1490020b",
+  "practice/sql/nightmare/expert-final-subq-003/solution.sql": "64cf9d5dfcc605fbcc53ca36778b8055d728b69c793d906cb4526224e5d51cc3"
 }
