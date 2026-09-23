@@ -153,5 +153,15 @@
   "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "8058192565f03bf769098f52f70b297166e125c44216856acd262d9dc9f9c7ab",
   "practice/sql/hard/hard-monetary-001/solution.sql": "26aa0efcfe45b35a37803f69cc2d27e39a86707910cd5e539e1a376a51d978c1",
   "practice/sql/hard/hard-retention-002/solution.sql": "377d05906c5bd2a420d9c23897c484f851157e9eef572dbde67f5b4d1490020b",
-  "practice/sql/nightmare/expert-final-subq-003/solution.sql": "64cf9d5dfcc605fbcc53ca36778b8055d728b69c793d906cb4526224e5d51cc3"
+  "practice/sql/nightmare/expert-final-subq-003/solution.sql": "64cf9d5dfcc605fbcc53ca36778b8055d728b69c793d906cb4526224e5d51cc3",
+  "practice/sql/hard/hard-rfm-005/solution.sql": "1c7ddc954430df423abc8e0299668d58bf26308dae4a4d768a2ca1d4c9b826c4",
+  "practice/sql/hard/hard-rfm-001/solution.sql": "58640de424ee46d5f0f7e081df90fd7eda8f1156e8dbfe06673632a3585f4e4f",
+  "practice/sql/hard/hard-rfm-004/solution.sql": "8b7a1f026960f2aca8b06ec5213586746b8333c1ae8c102723cb8ff919ea2d91",
+  "practice/sql/nightmare/expert-final-agg-001/solution.sql": "4cd5684881891e698d4543c5f9d5b7944f99c7988b4434e1078345e5ff49815a",
+  "practice/sql/hard/hard-rfm-003/solution.sql": "287152a24ca51cc3d07699ee3e2a6aaa981baffe38998bd8404c43b6f1128721",
+  "practice/sql/nightmare/nightmare-treemap-001/solution.sql": "0faf2a652cfbb07f5ef64e857c48b6b062c23fd9762389e29998dbbc9753c715",
+  "practice/sql/hard/hard-gap-002/solution.sql": "8dd24a2a3a39c0e9e62a7ce45dd621bee48167985f717cdfc5bfe5eaa439563f",
+  "practice/sql/hard/hard-gap-001/solution.sql": "7994bf36d71dcd383c782bc47354e08943cf9b40b59dd7970d771bfe8aa56547",
+  "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "27d429c1a1ddccd3aa3835594c72305be1fd0535d7e91d52912e57eb9cb730d6",
+  "practice/sql/hard/hard-cohort-002/solution.sql": "d2dd688cdbb9f3babcb45afe61cb478c0cfdd3095abf456aa8834fc52e358457"
 }
