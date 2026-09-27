@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**165** problems solved on [Xom Data](https://xomdata.com/practice).
+**170** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 81 | 30 | 28 | 22 | 161 |
+| SQL | 81 | 30 | 31 | 24 | 166 |
 
 **Recently solved**
 
+- [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-09-27
+- [nightmare-slidingmedian-001](https://xomdata.com/practice/nightmare-slidingmedian-001) · Nightmare · 2026-09-25
+- [hard-streak-002](https://xomdata.com/practice/hard-streak-002) · Hard · 2026-09-25
+- [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-09-24
+- [nightmare-consecutive-001](https://xomdata.com/practice/nightmare-consecutive-001) · Nightmare · 2026-09-24
 - [hard-cohort-002](https://xomdata.com/practice/hard-cohort-002) · Hard · 2026-09-23
 - [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-09-22
 - [hard-gap-001](https://xomdata.com/practice/hard-gap-001) · Hard · 2026-09-21
 - [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-09-20
 - [nightmare-treemap-001](https://xomdata.com/practice/nightmare-treemap-001) · Nightmare · 2026-09-19
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-19
-- [expert-final-agg-001](https://xomdata.com/practice/expert-final-agg-001) · Nightmare · 2026-09-19
-- [hard-rfm-004](https://xomdata.com/practice/hard-rfm-004) · Hard · 2026-09-19
-- [hard-rfm-001](https://xomdata.com/practice/hard-rfm-001) · Hard · 2026-09-18
-- [hard-rfm-005](https://xomdata.com/practice/hard-rfm-005) · Hard · 2026-09-17
 
-_Synced 165 solutions · last update 2026-09-23_
+_Synced 170 solutions · last update 2026-09-27_
 
 <!-- xomdata:stats:end -->
 

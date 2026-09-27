@@ -163,5 +163,10 @@
   "practice/sql/hard/hard-gap-002/solution.sql": "8dd24a2a3a39c0e9e62a7ce45dd621bee48167985f717cdfc5bfe5eaa439563f",
   "practice/sql/hard/hard-gap-001/solution.sql": "7994bf36d71dcd383c782bc47354e08943cf9b40b59dd7970d771bfe8aa56547",
   "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "27d429c1a1ddccd3aa3835594c72305be1fd0535d7e91d52912e57eb9cb730d6",
-  "practice/sql/hard/hard-cohort-002/solution.sql": "d2dd688cdbb9f3babcb45afe61cb478c0cfdd3095abf456aa8834fc52e358457"
+  "practice/sql/hard/hard-cohort-002/solution.sql": "d2dd688cdbb9f3babcb45afe61cb478c0cfdd3095abf456aa8834fc52e358457",
+  "practice/sql/nightmare/nightmare-consecutive-001/solution.sql": "6e61253006b38ac1b9986c632afc6cdf9b924faa51bf13c8600a57248fc99422",
+  "practice/sql/hard/hard-gap-003/solution.sql": "8340959a775815275eca6553b60c9311f8269081c113032870c876afa320b629",
+  "practice/sql/hard/hard-streak-002/solution.sql": "38eb53d7ca13de5de75efd9d3de93dacb4cf4bac3450d4620ef8bf1d5ec88bc3",
+  "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "f5557cd115dc0be0c28a86eb48c877925404b0385c282408cc31eaafed3714fc",
+  "practice/sql/hard/hard-retention-003/solution.sql": "7f01578c334ac737e830cd6dcaea0cc1f5e4fbe24ccea7ce2f2b08dd560acd99"
 }
