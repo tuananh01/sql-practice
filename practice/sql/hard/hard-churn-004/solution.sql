@@ -1,4 +1,4 @@
--- Xom Data · Nhịp rời mạng của thuê bao theo tháng
+-- Xom Data · Subscriber churn rhythm by month
 -- Problem: https://xomdata.com/practice/hard-churn-004
 -- Solved: 2026-09-30
 
