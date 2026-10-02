@@ -168,5 +168,10 @@
   "practice/sql/hard/hard-gap-003/solution.sql": "8340959a775815275eca6553b60c9311f8269081c113032870c876afa320b629",
   "practice/sql/hard/hard-streak-002/solution.sql": "38eb53d7ca13de5de75efd9d3de93dacb4cf4bac3450d4620ef8bf1d5ec88bc3",
   "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "f5557cd115dc0be0c28a86eb48c877925404b0385c282408cc31eaafed3714fc",
-  "practice/sql/hard/hard-retention-003/solution.sql": "7f01578c334ac737e830cd6dcaea0cc1f5e4fbe24ccea7ce2f2b08dd560acd99"
+  "practice/sql/hard/hard-retention-003/solution.sql": "7f01578c334ac737e830cd6dcaea0cc1f5e4fbe24ccea7ce2f2b08dd560acd99",
+  "practice/sql/nightmare/nightmare-median-freq-001/solution.sql": "47a0055d32ab373b61b8ec467c2888ff2ca7409fb3fc4864949290bfaa4521aa",
+  "practice/sql/medium/medium-agg-147/solution.sql": "7a0814b0597b7c0d4dd2540f4302929b6777a3b4eed3206ee1fa94685396a1df",
+  "practice/sql/hard/hard-churn-004/solution.sql": "8078f6f54065cdae862e49a97c0161ba438bf5e8c06c6d37c959ab3ebfbed170",
+  "practice/sql/medium/medium-winjoin-003/solution.sql": "6151e65f44eaf5123573a3da19fcb5b6ef677b4b4085d3fadc33bc26240b395c",
+  "practice/sql/hard/hard-ltv-002/solution.sql": "f4807a18532e2dfc02b44b442c57188c1bb1b975621dc2d55ba8fac3f18547f8"
 }
