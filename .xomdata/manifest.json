@@ -173,5 +173,11 @@
   "practice/sql/medium/medium-agg-147/solution.sql": "7a0814b0597b7c0d4dd2540f4302929b6777a3b4eed3206ee1fa94685396a1df",
   "practice/sql/hard/hard-churn-004/solution.sql": "8078f6f54065cdae862e49a97c0161ba438bf5e8c06c6d37c959ab3ebfbed170",
   "practice/sql/medium/medium-winjoin-003/solution.sql": "6151e65f44eaf5123573a3da19fcb5b6ef677b4b4085d3fadc33bc26240b395c",
-  "practice/sql/hard/hard-ltv-002/solution.sql": "f4807a18532e2dfc02b44b442c57188c1bb1b975621dc2d55ba8fac3f18547f8"
+  "practice/sql/hard/hard-ltv-002/solution.sql": "f4807a18532e2dfc02b44b442c57188c1bb1b975621dc2d55ba8fac3f18547f8",
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "20007a755f57a61e00da42b62542d3c45984bd71b35a4b7453bf1f60f8d3ce87",
+  "practice/sql/hard/hard-rfm-006/solution.sql": "91fe4b721fc1159c6c95dd30cfd3af62c65a9bee2fbe8dd5a602685e08e6a55a",
+  "practice/sql/hard/hard-churn-003/solution.sql": "1659e1943bf6904e79531f3b64f921c0971b685a46b5f3adebda80a5eb2283f9",
+  "practice/sql/hard/hard-cohort-004/solution.sql": "d7d30910dadbaa3ce5cca7e712064035b7022587db9f5f326a90eb10a74a0bbd",
+  "practice/sql/hard/hard-retention-004/solution.sql": "e9ee7c73ee3dc5bf1aa91b086f480b92ba63caed0b9293413c3c175c7988733b",
+  "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql": "a2e32812d19ed7ed333c2b0ff474f82eaff754f6b0c1d39024ca339a410274b7"
 }
