@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**181** problems solved on [Xom Data](https://xomdata.com/practice).
+**189** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 4 | 0 | 0 | 0 | 4 |
-| SQL | 81 | 32 | 37 | 27 | 177 |
+| SQL | 81 | 37 | 37 | 30 | 185 |
 
 **Recently solved**
 
+- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-10-13
+- [medium-winjoin-001](https://xomdata.com/practice/medium-winjoin-001) · Medium · 2026-10-12
+- [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-10-10
+- [medium-join-126](https://xomdata.com/practice/medium-join-126) · Medium · 2026-10-10
+- [nightmare-histogram-001](https://xomdata.com/practice/nightmare-histogram-001) · Nightmare · 2026-10-09
+- [medium-topn-002](https://xomdata.com/practice/medium-topn-002) · Medium · 2026-10-09
+- [nightmare-knapsack-001](https://xomdata.com/practice/nightmare-knapsack-001) · Nightmare · 2026-10-08
+- [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-10-07
 - [nightmare-nextgreater-001](https://xomdata.com/practice/nightmare-nextgreater-001) · Nightmare · 2026-10-06
 - [hard-retention-004](https://xomdata.com/practice/hard-retention-004) · Hard · 2026-10-05
-- [hard-cohort-004](https://xomdata.com/practice/hard-cohort-004) · Hard · 2026-10-05
-- [hard-churn-003](https://xomdata.com/practice/hard-churn-003) · Hard · 2026-10-05
-- [hard-rfm-006](https://xomdata.com/practice/hard-rfm-006) · Hard · 2026-10-04
-- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-10-03
-- [hard-ltv-002](https://xomdata.com/practice/hard-ltv-002) · Hard · 2026-10-02
-- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-10-01
-- [hard-churn-004](https://xomdata.com/practice/hard-churn-004) · Hard · 2026-09-30
-- [medium-agg-147](https://xomdata.com/practice/medium-agg-147) · Medium · 2026-09-29
 
-_Synced 181 solutions · last update 2026-10-06_
+_Synced 189 solutions · last update 2026-10-13_
 
 <!-- xomdata:stats:end -->
 
